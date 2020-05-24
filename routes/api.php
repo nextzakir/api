@@ -27,7 +27,7 @@ Route::namespace('Api')->group(function () {
         });
 
         Route::namespace('Other')->group(function () {
-            
+            Route::apiResource('categories', 'CategoryController');
         });
     });
 });

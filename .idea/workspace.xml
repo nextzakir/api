@@ -134,9 +134,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/Http/Controllers/Api" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Nevadia Technology\Practice\API Development\api\app\Http\Controllers\Api\Other" />
       <recent name="D:\Nevadia Technology\Practice\API Development\api\app\Http\Controllers\Api\Auth" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -174,7 +176,9 @@
       <workItem from="1590231906962" duration="3834000" />
       <workItem from="1590239933639" duration="721000" />
       <workItem from="1590240690054" duration="3274000" />
-      <workItem from="1590244949027" duration="12896000" />
+      <workItem from="1590244949027" duration="18680000" />
+      <workItem from="1590268056323" duration="6141000" />
+      <workItem from="1590339196280" duration="4949000" />
     </task>
     <servers />
   </component>
@@ -186,7 +190,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
