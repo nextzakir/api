@@ -1,3 +1,3 @@
 ## API Skeleton
 
-This is how I need to develop an API and implement API Authentication using [Laravel Passport](https://laravel.com/docs/7.x/passport).
+Developing an API in Laravel and implementing API Authentication using [Laravel Passport](https://laravel.com/docs/7.x/passport).
